@@ -1,0 +1,3 @@
+###### Program dependencies ######
+selenium==1.25.7
+webdriver-manager==5.0.0
